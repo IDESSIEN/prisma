@@ -10,7 +10,7 @@ const workshops = [
     id: 1,
     number: '01',
     title: 'The Grammar of Light',
-    instructor: 'Marcus Chen',
+    instructor: 'Idongesit Essien',
     format: 'Intensive · 3 days',
     location: 'Berlin, DE',
     date: 'Aug 14 - 16',

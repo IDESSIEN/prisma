@@ -29,7 +29,7 @@ export default function About() {
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl max-w-3xl mx-auto leading-[0.95] sm:leading-[0.9] mb-8 md:mb-12">
             <WordsPullUpMultiStyle
               segments={[
-                { text: 'I am Marcus Chen,', className: 'font-normal text-primary' },
+                { text: 'I am Idongesit Essien ,', className: 'font-normal text-primary' },
                 {
                   text: 'a self-taught director.',
                   className: 'font-serif italic text-primary',
